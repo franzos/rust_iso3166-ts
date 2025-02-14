@@ -1,0 +1,30 @@
+{
+  "name": "rust_iso3166-ts",
+  "version": "0.1.14",
+  "description": "TypeScript ISO 3166-1 and ISO 3166-2 country and subdivision codes",
+  "author": { "name": "Franz Geffke", "email": "m@f-a.nz" },
+  "license": "MIT",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "require": "./dist/index.js",
+      "import": "./dist/index.mjs",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "clean": "rm -rf dist",
+    "prepare": "npm run build"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "tsup": "^8.0.0"
+  }
+}
