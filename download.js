@@ -3,6 +3,32 @@ const fs = require('fs');
 
 const url = 'https://raw.githubusercontent.com/rust-iso/rust_iso3166/refs/heads/main/scripts/iso3166_2.data';
 
+function parseCsvLine(line) {
+    const fields = [];
+    let field = '';
+    let inQuotes = false;
+    
+    for (let i = 0; i < line.length; i++) {
+        const char = line[i];
+        
+        if (char === '"') {
+            if (inQuotes && line[i + 1] === '"') {
+                field += '"';
+                i++;
+            } else {
+                inQuotes = !inQuotes;
+            }
+        } else if (char === ',' && !inQuotes) {
+            fields.push(field.trim());
+            field = '';
+        } else {
+            field += char;
+        }
+    }
+    fields.push(field.trim());
+    return fields.map(f => f.replace(/^"|"$/g, ''));
+}
+
 https.get(url, (res) => {
     let data = '';
     
@@ -12,36 +38,24 @@ https.get(url, (res) => {
     
     res.on('end', () => {
         try {
-            // Parse raw data
             const lines = data.trim().split('\n');
             
-            // Create ISO3166-2 subdivisions array
             const subdivisions = lines.map(line => {
-                // Split by comma but respect quotes
-                const parts = line.match(/(?:[^,"]|"[^"]*")+/g);
-                const country = parts[0].replace(/^"|"$/g, ''); // Remove quotes if present
-                const code = parts[1];
-                const name = parts[2];
-                const type = parts[3];
-                const countryCode = parts[4];
-                
+                const parts = parseCsvLine(line);
                 return {
-                    n: name,
-                    a2: code,
-                    k: type,
-                    c: countryCode
+                    n: parts[2],
+                    a2: parts[1],
+                    k: parts[3],
+                    c: parts[4]
                 };
             });
 
-            // Create deduplicated ISO3166-1 countries array using Map
             const countryMap = new Map();
             lines.forEach(line => {
-                const parts = line.match(/(?:[^,"]|"[^"]*")+/g);
-                const country = parts[0].replace(/^"|"$/g, ''); // Remove quotes if present
-                const countryCode = parts[4];
-                countryMap.set(countryCode, {
-                    n: country,
-                    a2: countryCode
+                const parts = parseCsvLine(line);
+                countryMap.set(parts[4], {
+                    n: parts[0],
+                    a2: parts[4]
                 });
             });
             const countries = Array.from(countryMap.values());

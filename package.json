@@ -1,6 +1,6 @@
 {
   "name": "rust_iso3166-ts",
-  "version": "0.1.14-1",
+  "version": "0.1.14-2",
   "description": "TypeScript ISO 3166-1 and ISO 3166-2 country and subdivision codes",
   "author": { "name": "Franz Geffke", "email": "m@f-a.nz" },
   "license": "MIT",
