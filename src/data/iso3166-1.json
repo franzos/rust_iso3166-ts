@@ -88,10 +88,6 @@
     "a2": "BE"
   },
   {
-    "n": "Czech Republic",
-    "a2": "Region"
-  },
-  {
     "n": "Belize",
     "a2": "BZ"
   },
@@ -112,8 +108,8 @@
     "a2": "BO"
   },
   {
-    "n": "\"Bonaire",
-    "a2": "Special municipality"
+    "n": "Bonaire, Sint Eustatius and Saba",
+    "a2": "BQ"
   },
   {
     "n": "Bosnia and Herzegovina",
@@ -204,10 +200,6 @@
     "a2": "CO"
   },
   {
-    "n": "Colombia",
-    "a2": "Department"
-  },
-  {
     "n": "Comoros",
     "a2": "KM"
   },
@@ -216,12 +208,8 @@
     "a2": "CG"
   },
   {
-    "n": "\"Korea",
-    "a2": "Province"
-  },
-  {
-    "n": "\"Congo",
-    "a2": "City"
+    "n": "Congo, The Democratic Republic Of The",
+    "a2": "CD"
   },
   {
     "n": "Cook Islands",
@@ -298,10 +286,6 @@
   {
     "n": "Ethiopia",
     "a2": "ET"
-  },
-  {
-    "n": "\"Micronesia",
-    "a2": "State"
   },
   {
     "n": "Falkland Islands",
@@ -484,24 +468,12 @@
     "a2": "KI"
   },
   {
-    "n": "\"Korea",
-    "a2": "Capital city"
+    "n": "Korea, Democratic People's Republic Of",
+    "a2": "KP"
   },
   {
-    "n": "\"Korea",
-    "a2": "Special city"
-  },
-  {
-    "n": "\"Korea",
-    "a2": "Metropolitan city"
-  },
-  {
-    "n": "\"Korea",
-    "a2": "Special self-governing province"
-  },
-  {
-    "n": "\"Korea",
-    "a2": "Special self-governing city"
+    "n": "Korea, Republic of",
+    "a2": "KR"
   },
   {
     "n": "Kuwait",
@@ -552,8 +524,8 @@
     "a2": "MO"
   },
   {
-    "n": "\"Macedonia",
-    "a2": "Municipality"
+    "n": "Macedonia, the Former Yugoslav Republic Of",
+    "a2": "MK"
   },
   {
     "n": "Madagascar",
@@ -604,16 +576,12 @@
     "a2": "MX"
   },
   {
+    "n": "Micronesia, Federated States Of",
+    "a2": "FM"
+  },
+  {
     "n": "Moldova",
     "a2": "MD"
-  },
-  {
-    "n": "Moldova",
-    "a2": "Autonomous territorial unit"
-  },
-  {
-    "n": "Moldova",
-    "a2": "Territorial unit"
   },
   {
     "n": "Monaco",
@@ -761,10 +729,6 @@
   },
   {
     "n": "Russia",
-    "a2": "Republic"
-  },
-  {
-    "n": "Russia",
     "a2": "RU"
   },
   {
@@ -772,8 +736,8 @@
     "a2": "RW"
   },
   {
-    "n": "\"Saint Helena",
-    "a2": "Geographical entity"
+    "n": "Saint Helena, Ascension and Tristan Da Cunha",
+    "a2": "SH"
   },
   {
     "n": "Saint Kitts And Nevis",
@@ -854,10 +818,6 @@
   {
     "n": "Spain",
     "a2": "ES"
-  },
-  {
-    "n": "Spain",
-    "a2": "Autonomous community"
   },
   {
     "n": "Sri Lanka",
@@ -980,32 +940,12 @@
     "a2": "GB"
   },
   {
-    "n": "United Kingdom",
-    "a2": "Unitary authority"
-  },
-  {
-    "n": "United Kingdom",
-    "a2": "Council area"
-  },
-  {
-    "n": "United Kingdom",
-    "a2": "City corporation"
-  },
-  {
-    "n": "United Kingdom",
-    "a2": " Taff\""
-  },
-  {
     "n": "United States Minor Outlying Islands",
-    "a2": " groups of islands\""
+    "a2": "UM"
   },
   {
     "n": "United States",
     "a2": "US"
-  },
-  {
-    "n": "United States",
-    "a2": "Outlying area"
   },
   {
     "n": "Uruguay",

@@ -2580,10 +2580,10 @@
     "c": "BE"
   },
   {
-    "n": "\"wallonne",
+    "n": "\"wallonne, Région\"",
     "a2": "BE-WAL",
-    "k": " Région\"",
-    "c": "Region"
+    "k": "Region",
+    "c": "BE"
   },
   {
     "n": "Brabant wallon",
@@ -2904,22 +2904,22 @@
     "c": "BO"
   },
   {
-    "n": "BQ-BO",
-    "a2": " Sint Eustatius and Saba\"",
-    "k": "Bonaire",
-    "c": "Special municipality"
+    "n": "Bonaire",
+    "a2": "BQ-BO",
+    "k": "Special municipality",
+    "c": "BQ"
   },
   {
-    "n": "BQ-SA",
-    "a2": " Sint Eustatius and Saba\"",
-    "k": "Saba",
-    "c": "Special municipality"
+    "n": "Saba",
+    "a2": "BQ-SA",
+    "k": "Special municipality",
+    "c": "BQ"
   },
   {
-    "n": "BQ-SE",
-    "a2": " Sint Eustatius and Saba\"",
-    "k": "Sint Eustatius",
-    "c": "Special municipality"
+    "n": "Sint Eustatius",
+    "a2": "BQ-SE",
+    "k": "Special municipality",
+    "c": "BQ"
   },
   {
     "n": "Unsko-sanska županija",
@@ -5076,10 +5076,10 @@
     "c": "CO"
   },
   {
-    "n": "\"San Andrés",
+    "n": "\"San Andrés, Providencia y Santa Catalina\"",
     "a2": "CO-SAP",
-    "k": " Providencia y Santa Catalina\"",
-    "c": "Department"
+    "k": "Department",
+    "c": "CO"
   },
   {
     "n": "Sucre",
@@ -5202,70 +5202,70 @@
     "c": "CG"
   },
   {
-    "n": "CD-BC",
-    "a2": " The Democratic Republic Of The\"",
-    "k": "Bas-Congo",
-    "c": "Province"
+    "n": "Bas-Congo",
+    "a2": "CD-BC",
+    "k": "Province",
+    "c": "CD"
   },
   {
-    "n": "CD-BN",
-    "a2": " The Democratic Republic Of The\"",
-    "k": "Bandundu",
-    "c": "Province"
+    "n": "Bandundu",
+    "a2": "CD-BN",
+    "k": "Province",
+    "c": "CD"
   },
   {
-    "n": "CD-EQ",
-    "a2": " The Democratic Republic Of The\"",
-    "k": "Équateur",
-    "c": "Province"
+    "n": "Équateur",
+    "a2": "CD-EQ",
+    "k": "Province",
+    "c": "CD"
   },
   {
-    "n": "CD-KA",
-    "a2": " The Democratic Republic Of The\"",
-    "k": "Katanga",
-    "c": "Province"
+    "n": "Katanga",
+    "a2": "CD-KA",
+    "k": "Province",
+    "c": "CD"
   },
   {
-    "n": "CD-KE",
-    "a2": " The Democratic Republic Of The\"",
-    "k": "Kasai-Oriental",
-    "c": "Province"
+    "n": "Kasai-Oriental",
+    "a2": "CD-KE",
+    "k": "Province",
+    "c": "CD"
   },
   {
-    "n": "CD-KN",
-    "a2": " The Democratic Republic Of The\"",
-    "k": "Kinshasa",
-    "c": "City"
+    "n": "Kinshasa",
+    "a2": "CD-KN",
+    "k": "City",
+    "c": "CD"
   },
   {
-    "n": "CD-KW",
-    "a2": " The Democratic Republic Of The\"",
-    "k": "Kasai-Occidental",
-    "c": "Province"
+    "n": "Kasai-Occidental",
+    "a2": "CD-KW",
+    "k": "Province",
+    "c": "CD"
   },
   {
-    "n": "CD-MA",
-    "a2": " The Democratic Republic Of The\"",
-    "k": "Maniema",
-    "c": "Province"
+    "n": "Maniema",
+    "a2": "CD-MA",
+    "k": "Province",
+    "c": "CD"
   },
   {
-    "n": "CD-NK",
-    "a2": " The Democratic Republic Of The\"",
-    "k": "Nord-Kivu",
-    "c": "Province"
+    "n": "Nord-Kivu",
+    "a2": "CD-NK",
+    "k": "Province",
+    "c": "CD"
   },
   {
-    "n": "CD-OR",
-    "a2": " The Democratic Republic Of The\"",
-    "k": "Orientale",
-    "c": "Province"
+    "n": "Orientale",
+    "a2": "CD-OR",
+    "k": "Province",
+    "c": "CD"
   },
   {
-    "n": "CD-SK",
-    "a2": " The Democratic Republic Of The\"",
-    "k": "Sud-Kivu",
-    "c": "Province"
+    "n": "Sud-Kivu",
+    "a2": "CD-SK",
+    "k": "Province",
+    "c": "CD"
   },
   {
     "n": "Cook Islands",
@@ -6294,10 +6294,10 @@
     "c": "CZ"
   },
   {
-    "n": "\"Praha",
+    "n": "\"Praha, hlavní mešto\"",
     "a2": "CZ-PR",
-    "k": " hlavní mešto\"",
-    "c": "Region"
+    "k": "Region",
+    "c": "CZ"
   },
   {
     "n": "Středočeský kraj",
@@ -7320,10 +7320,10 @@
     "c": "ET"
   },
   {
-    "n": "\"Southern Nations",
+    "n": "\"Southern Nations, Nationalities and Peoples\"",
     "a2": "ET-SN",
-    "k": " Nationalities and Peoples\"",
-    "c": "State"
+    "k": "State",
+    "c": "ET"
   },
   {
     "n": "Somali",
@@ -12858,172 +12858,172 @@
     "c": "KI"
   },
   {
-    "n": "KP-01",
-    "a2": " Democratic People's Republic Of\"",
-    "k": "P'yǒngyang",
-    "c": "Capital city"
+    "n": "P'yǒngyang",
+    "a2": "KP-01",
+    "k": "Capital city",
+    "c": "KP"
   },
   {
-    "n": "KP-02",
-    "a2": " Democratic People's Republic Of\"",
-    "k": "P'yǒngan-namdo",
-    "c": "Province"
+    "n": "P'yǒngan-namdo",
+    "a2": "KP-02",
+    "k": "Province",
+    "c": "KP"
   },
   {
-    "n": "KP-03",
-    "a2": " Democratic People's Republic Of\"",
-    "k": "P'yǒngan-bukto",
-    "c": "Province"
+    "n": "P'yǒngan-bukto",
+    "a2": "KP-03",
+    "k": "Province",
+    "c": "KP"
   },
   {
-    "n": "KP-04",
-    "a2": " Democratic People's Republic Of\"",
-    "k": "Chagang-do",
-    "c": "Province"
+    "n": "Chagang-do",
+    "a2": "KP-04",
+    "k": "Province",
+    "c": "KP"
   },
   {
-    "n": "KP-05",
-    "a2": " Democratic People's Republic Of\"",
-    "k": "Hwanghae-namdo",
-    "c": "Province"
+    "n": "Hwanghae-namdo",
+    "a2": "KP-05",
+    "k": "Province",
+    "c": "KP"
   },
   {
-    "n": "KP-06",
-    "a2": " Democratic People's Republic Of\"",
-    "k": "Hwanghae-bukto",
-    "c": "Province"
+    "n": "Hwanghae-bukto",
+    "a2": "KP-06",
+    "k": "Province",
+    "c": "KP"
   },
   {
-    "n": "KP-07",
-    "a2": " Democratic People's Republic Of\"",
-    "k": "Kangweonto",
-    "c": "Province"
+    "n": "Kangweonto",
+    "a2": "KP-07",
+    "k": "Province",
+    "c": "KP"
   },
   {
-    "n": "KP-08",
-    "a2": " Democratic People's Republic Of\"",
-    "k": "Hamgyǒng-namdo",
-    "c": "Province"
+    "n": "Hamgyǒng-namdo",
+    "a2": "KP-08",
+    "k": "Province",
+    "c": "KP"
   },
   {
-    "n": "KP-09",
-    "a2": " Democratic People's Republic Of\"",
-    "k": "Hamgyǒng-bukto",
-    "c": "Province"
+    "n": "Hamgyǒng-bukto",
+    "a2": "KP-09",
+    "k": "Province",
+    "c": "KP"
   },
   {
-    "n": "KP-10",
-    "a2": " Democratic People's Republic Of\"",
-    "k": "Ryangkangto",
-    "c": "Province"
+    "n": "Ryangkangto",
+    "a2": "KP-10",
+    "k": "Province",
+    "c": "KP"
   },
   {
-    "n": "KP-13",
-    "a2": " Democratic People's Republic Of\"",
-    "k": "Nasǒn",
-    "c": "Special city"
+    "n": "Nasǒn",
+    "a2": "KP-13",
+    "k": "Special city",
+    "c": "KP"
   },
   {
-    "n": "KR-11",
-    "a2": " Republic of\"",
-    "k": "Seoul-T'ǔkpyǒlshi",
-    "c": "Special city"
+    "n": "Seoul-T'ǔkpyǒlshi",
+    "a2": "KR-11",
+    "k": "Special city",
+    "c": "KR"
   },
   {
-    "n": "KR-26",
-    "a2": " Republic of\"",
-    "k": "Busan Gwang'yeogsi",
-    "c": "Metropolitan city"
+    "n": "Busan Gwang'yeogsi",
+    "a2": "KR-26",
+    "k": "Metropolitan city",
+    "c": "KR"
   },
   {
-    "n": "KR-27",
-    "a2": " Republic of\"",
-    "k": "Daegu Gwang'yeogsi",
-    "c": "Metropolitan city"
+    "n": "Daegu Gwang'yeogsi",
+    "a2": "KR-27",
+    "k": "Metropolitan city",
+    "c": "KR"
   },
   {
-    "n": "KR-28",
-    "a2": " Republic of\"",
-    "k": "Inch'ǒn-Kwangyǒkshi",
-    "c": "Metropolitan city"
+    "n": "Inch'ǒn-Kwangyǒkshi",
+    "a2": "KR-28",
+    "k": "Metropolitan city",
+    "c": "KR"
   },
   {
-    "n": "KR-29",
-    "a2": " Republic of\"",
-    "k": "Gwangju Gwang'yeogsi",
-    "c": "Metropolitan city"
+    "n": "Gwangju Gwang'yeogsi",
+    "a2": "KR-29",
+    "k": "Metropolitan city",
+    "c": "KR"
   },
   {
-    "n": "KR-30",
-    "a2": " Republic of\"",
-    "k": "Daejeon Gwang'yeogsi",
-    "c": "Metropolitan city"
+    "n": "Daejeon Gwang'yeogsi",
+    "a2": "KR-30",
+    "k": "Metropolitan city",
+    "c": "KR"
   },
   {
-    "n": "KR-31",
-    "a2": " Republic of\"",
-    "k": "Ulsan Gwang'yeogsi",
-    "c": "Metropolitan city"
+    "n": "Ulsan Gwang'yeogsi",
+    "a2": "KR-31",
+    "k": "Metropolitan city",
+    "c": "KR"
   },
   {
-    "n": "KR-41",
-    "a2": " Republic of\"",
-    "k": "Gyeonggido",
-    "c": "Province"
+    "n": "Gyeonggido",
+    "a2": "KR-41",
+    "k": "Province",
+    "c": "KR"
   },
   {
-    "n": "KR-42",
-    "a2": " Republic of\"",
-    "k": "Gang'weondo",
-    "c": "Province"
+    "n": "Gang'weondo",
+    "a2": "KR-42",
+    "k": "Province",
+    "c": "KR"
   },
   {
-    "n": "KR-43",
-    "a2": " Republic of\"",
-    "k": "Ch'ungch'ǒngbuk-do",
-    "c": "Province"
+    "n": "Ch'ungch'ǒngbuk-do",
+    "a2": "KR-43",
+    "k": "Province",
+    "c": "KR"
   },
   {
-    "n": "KR-44",
-    "a2": " Republic of\"",
-    "k": "Ch'ungch'ǒngnam-do",
-    "c": "Province"
+    "n": "Ch'ungch'ǒngnam-do",
+    "a2": "KR-44",
+    "k": "Province",
+    "c": "KR"
   },
   {
-    "n": "KR-45",
-    "a2": " Republic of\"",
-    "k": "Chǒllabuk-do",
-    "c": "Province"
+    "n": "Chǒllabuk-do",
+    "a2": "KR-45",
+    "k": "Province",
+    "c": "KR"
   },
   {
-    "n": "KR-46",
-    "a2": " Republic of\"",
-    "k": "Chǒllanam-do",
-    "c": "Province"
+    "n": "Chǒllanam-do",
+    "a2": "KR-46",
+    "k": "Province",
+    "c": "KR"
   },
   {
-    "n": "KR-47",
-    "a2": " Republic of\"",
-    "k": "Gyeongsangbugdo",
-    "c": "Province"
+    "n": "Gyeongsangbugdo",
+    "a2": "KR-47",
+    "k": "Province",
+    "c": "KR"
   },
   {
-    "n": "KR-48",
-    "a2": " Republic of\"",
-    "k": "Gyeongsangnamdo",
-    "c": "Province"
+    "n": "Gyeongsangnamdo",
+    "a2": "KR-48",
+    "k": "Province",
+    "c": "KR"
   },
   {
-    "n": "KR-49",
-    "a2": " Republic of\"",
-    "k": "Cheju-do",
-    "c": "Special self-governing province"
+    "n": "Cheju-do",
+    "a2": "KR-49",
+    "k": "Special self-governing province",
+    "c": "KR"
   },
   {
-    "n": "KR-50",
-    "a2": " Republic of\"",
-    "k": "Sejong",
-    "c": "Special self-governing city"
+    "n": "Sejong",
+    "a2": "KR-50",
+    "k": "Special self-governing city",
+    "c": "KR"
   },
   {
     "n": "Al Aḩmadī",
@@ -14778,508 +14778,508 @@
     "c": "MO"
   },
   {
-    "n": "MK-01",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Aerodrom †",
-    "c": "Municipality"
+    "n": "Aerodrom †",
+    "a2": "MK-01",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-02",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Aračinovo",
-    "c": "Municipality"
+    "n": "Aračinovo",
+    "a2": "MK-02",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-03",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Berovo",
-    "c": "Municipality"
+    "n": "Berovo",
+    "a2": "MK-03",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-04",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Bitola",
-    "c": "Municipality"
+    "n": "Bitola",
+    "a2": "MK-04",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-05",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Bogdanci",
-    "c": "Municipality"
+    "n": "Bogdanci",
+    "a2": "MK-05",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-06",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Bogovinje",
-    "c": "Municipality"
+    "n": "Bogovinje",
+    "a2": "MK-06",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-07",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Bosilovo",
-    "c": "Municipality"
+    "n": "Bosilovo",
+    "a2": "MK-07",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-08",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Brvenica",
-    "c": "Municipality"
+    "n": "Brvenica",
+    "a2": "MK-08",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-09",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Butel †",
-    "c": "Municipality"
+    "n": "Butel †",
+    "a2": "MK-09",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-10",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Valandovo",
-    "c": "Municipality"
+    "n": "Valandovo",
+    "a2": "MK-10",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-11",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Vasilevo",
-    "c": "Municipality"
+    "n": "Vasilevo",
+    "a2": "MK-11",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-12",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Vevčani",
-    "c": "Municipality"
+    "n": "Vevčani",
+    "a2": "MK-12",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-13",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Veles",
-    "c": "Municipality"
+    "n": "Veles",
+    "a2": "MK-13",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-14",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Vinica",
-    "c": "Municipality"
+    "n": "Vinica",
+    "a2": "MK-14",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-15",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Vraneštica",
-    "c": "Municipality"
+    "n": "Vraneštica",
+    "a2": "MK-15",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-16",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Vrapčište",
-    "c": "Municipality"
+    "n": "Vrapčište",
+    "a2": "MK-16",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-17",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Gazi Baba †",
-    "c": "Municipality"
+    "n": "Gazi Baba †",
+    "a2": "MK-17",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-18",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Gevgelija",
-    "c": "Municipality"
+    "n": "Gevgelija",
+    "a2": "MK-18",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-19",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Gostivar",
-    "c": "Municipality"
+    "n": "Gostivar",
+    "a2": "MK-19",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-20",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Gradsko",
-    "c": "Municipality"
+    "n": "Gradsko",
+    "a2": "MK-20",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-21",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Debar",
-    "c": "Municipality"
+    "n": "Debar",
+    "a2": "MK-21",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-22",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Debarca",
-    "c": "Municipality"
+    "n": "Debarca",
+    "a2": "MK-22",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-23",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Delčevo",
-    "c": "Municipality"
+    "n": "Delčevo",
+    "a2": "MK-23",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-24",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Demir Kapija",
-    "c": "Municipality"
+    "n": "Demir Kapija",
+    "a2": "MK-24",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-25",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Demir Hisar",
-    "c": "Municipality"
+    "n": "Demir Hisar",
+    "a2": "MK-25",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-26",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Dojran",
-    "c": "Municipality"
+    "n": "Dojran",
+    "a2": "MK-26",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-27",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Dolneni",
-    "c": "Municipality"
+    "n": "Dolneni",
+    "a2": "MK-27",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-28",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Drugovo",
-    "c": "Municipality"
+    "n": "Drugovo",
+    "a2": "MK-28",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-29",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Gjorče Petrov †",
-    "c": "Municipality"
+    "n": "Gjorče Petrov †",
+    "a2": "MK-29",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-30",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Želino",
-    "c": "Municipality"
+    "n": "Želino",
+    "a2": "MK-30",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-31",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Zajas",
-    "c": "Municipality"
+    "n": "Zajas",
+    "a2": "MK-31",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-32",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Zelenikovo",
-    "c": "Municipality"
+    "n": "Zelenikovo",
+    "a2": "MK-32",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-33",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Zrnovci",
-    "c": "Municipality"
+    "n": "Zrnovci",
+    "a2": "MK-33",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-34",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Ilinden",
-    "c": "Municipality"
+    "n": "Ilinden",
+    "a2": "MK-34",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-35",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Jegunovce",
-    "c": "Municipality"
+    "n": "Jegunovce",
+    "a2": "MK-35",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-36",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Kavadarci",
-    "c": "Municipality"
+    "n": "Kavadarci",
+    "a2": "MK-36",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-37",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Karbinci",
-    "c": "Municipality"
+    "n": "Karbinci",
+    "a2": "MK-37",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-38",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Karpoš †",
-    "c": "Municipality"
+    "n": "Karpoš †",
+    "a2": "MK-38",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-39",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Kisela Voda †",
-    "c": "Municipality"
+    "n": "Kisela Voda †",
+    "a2": "MK-39",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-40",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Kičevo",
-    "c": "Municipality"
+    "n": "Kičevo",
+    "a2": "MK-40",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-41",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Konče",
-    "c": "Municipality"
+    "n": "Konče",
+    "a2": "MK-41",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-42",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Kočani",
-    "c": "Municipality"
+    "n": "Kočani",
+    "a2": "MK-42",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-43",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Kratovo",
-    "c": "Municipality"
+    "n": "Kratovo",
+    "a2": "MK-43",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-44",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Kriva Palanka",
-    "c": "Municipality"
+    "n": "Kriva Palanka",
+    "a2": "MK-44",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-45",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Krivogaštani",
-    "c": "Municipality"
+    "n": "Krivogaštani",
+    "a2": "MK-45",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-46",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Kruševo",
-    "c": "Municipality"
+    "n": "Kruševo",
+    "a2": "MK-46",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-47",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Kumanovo",
-    "c": "Municipality"
+    "n": "Kumanovo",
+    "a2": "MK-47",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-48",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Lipkovo",
-    "c": "Municipality"
+    "n": "Lipkovo",
+    "a2": "MK-48",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-49",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Lozovo",
-    "c": "Municipality"
+    "n": "Lozovo",
+    "a2": "MK-49",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-50",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Mavrovo i Rostuša",
-    "c": "Municipality"
+    "n": "Mavrovo i Rostuša",
+    "a2": "MK-50",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-51",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Makedonska Kamenica",
-    "c": "Municipality"
+    "n": "Makedonska Kamenica",
+    "a2": "MK-51",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-52",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Makedonski Brod",
-    "c": "Municipality"
+    "n": "Makedonski Brod",
+    "a2": "MK-52",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-53",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Mogila",
-    "c": "Municipality"
+    "n": "Mogila",
+    "a2": "MK-53",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-54",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Negotino",
-    "c": "Municipality"
+    "n": "Negotino",
+    "a2": "MK-54",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-55",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Novaci",
-    "c": "Municipality"
+    "n": "Novaci",
+    "a2": "MK-55",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-56",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Novo Selo",
-    "c": "Municipality"
+    "n": "Novo Selo",
+    "a2": "MK-56",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-57",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Oslomej",
-    "c": "Municipality"
+    "n": "Oslomej",
+    "a2": "MK-57",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-58",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Ohrid",
-    "c": "Municipality"
+    "n": "Ohrid",
+    "a2": "MK-58",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-59",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Petrovec",
-    "c": "Municipality"
+    "n": "Petrovec",
+    "a2": "MK-59",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-60",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Pehčevo",
-    "c": "Municipality"
+    "n": "Pehčevo",
+    "a2": "MK-60",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-61",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Plasnica",
-    "c": "Municipality"
+    "n": "Plasnica",
+    "a2": "MK-61",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-62",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Prilep",
-    "c": "Municipality"
+    "n": "Prilep",
+    "a2": "MK-62",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-63",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Probištip",
-    "c": "Municipality"
+    "n": "Probištip",
+    "a2": "MK-63",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-64",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Radoviš",
-    "c": "Municipality"
+    "n": "Radoviš",
+    "a2": "MK-64",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-65",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Rankovce",
-    "c": "Municipality"
+    "n": "Rankovce",
+    "a2": "MK-65",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-66",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Resen",
-    "c": "Municipality"
+    "n": "Resen",
+    "a2": "MK-66",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-67",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Rosoman",
-    "c": "Municipality"
+    "n": "Rosoman",
+    "a2": "MK-67",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-68",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Saraj †",
-    "c": "Municipality"
+    "n": "Saraj †",
+    "a2": "MK-68",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-69",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Sveti Nikole",
-    "c": "Municipality"
+    "n": "Sveti Nikole",
+    "a2": "MK-69",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-70",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Sopište",
-    "c": "Municipality"
+    "n": "Sopište",
+    "a2": "MK-70",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-71",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Staro Nagoričane",
-    "c": "Municipality"
+    "n": "Staro Nagoričane",
+    "a2": "MK-71",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-72",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Struga",
-    "c": "Municipality"
+    "n": "Struga",
+    "a2": "MK-72",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-73",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Strumica",
-    "c": "Municipality"
+    "n": "Strumica",
+    "a2": "MK-73",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-74",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Studeničani",
-    "c": "Municipality"
+    "n": "Studeničani",
+    "a2": "MK-74",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-75",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Tearce",
-    "c": "Municipality"
+    "n": "Tearce",
+    "a2": "MK-75",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-76",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Tetovo",
-    "c": "Municipality"
+    "n": "Tetovo",
+    "a2": "MK-76",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-77",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Centar †",
-    "c": "Municipality"
+    "n": "Centar †",
+    "a2": "MK-77",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-78",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Centar Župa",
-    "c": "Municipality"
+    "n": "Centar Župa",
+    "a2": "MK-78",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-79",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Čair †",
-    "c": "Municipality"
+    "n": "Čair †",
+    "a2": "MK-79",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-80",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Čaška",
-    "c": "Municipality"
+    "n": "Čaška",
+    "a2": "MK-80",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-81",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Češinovo-Obleševo",
-    "c": "Municipality"
+    "n": "Češinovo-Obleševo",
+    "a2": "MK-81",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-82",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Čučer Sandevo",
-    "c": "Municipality"
+    "n": "Čučer Sandevo",
+    "a2": "MK-82",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-83",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Štip",
-    "c": "Municipality"
+    "n": "Štip",
+    "a2": "MK-83",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
-    "n": "MK-84",
-    "a2": " the Former Yugoslav Republic Of\"",
-    "k": "Šuto Orizari †",
-    "c": "Municipality"
+    "n": "Šuto Orizari †",
+    "a2": "MK-84",
+    "k": "Municipality",
+    "c": "MK"
   },
   {
     "n": "Toamasina",
@@ -16770,28 +16770,28 @@
     "c": "MX"
   },
   {
-    "n": "FM-KSA",
-    "a2": " Federated States Of\"",
-    "k": "Kosrae",
-    "c": "State"
+    "n": "Kosrae",
+    "a2": "FM-KSA",
+    "k": "State",
+    "c": "FM"
   },
   {
-    "n": "FM-PNI",
-    "a2": " Federated States Of\"",
-    "k": "Pohnpei",
-    "c": "State"
+    "n": "Pohnpei",
+    "a2": "FM-PNI",
+    "k": "State",
+    "c": "FM"
   },
   {
-    "n": "FM-TRK",
-    "a2": " Federated States Of\"",
-    "k": "Chuuk",
-    "c": "State"
+    "n": "Chuuk",
+    "a2": "FM-TRK",
+    "k": "State",
+    "c": "FM"
   },
   {
-    "n": "FM-YAP",
-    "a2": " Federated States Of\"",
-    "k": "Yap",
-    "c": "State"
+    "n": "Yap",
+    "a2": "FM-YAP",
+    "k": "State",
+    "c": "FM"
   },
   {
     "n": "Anenii Noi",
@@ -16902,10 +16902,10 @@
     "c": "MD"
   },
   {
-    "n": "\"Găgăuzia",
+    "n": "\"Găgăuzia, Unitatea teritorială autonomă\"",
     "a2": "MD-GA",
-    "k": " Unitatea teritorială autonomă\"",
-    "c": "Autonomous territorial unit"
+    "k": "Autonomous territorial unit",
+    "c": "MD"
   },
   {
     "n": "Glodeni",
@@ -16974,10 +16974,10 @@
     "c": "MD"
   },
   {
-    "n": "\"Stînga Nistrului",
+    "n": "\"Stînga Nistrului, unitatea teritorială din\"",
     "a2": "MD-SN",
-    "k": " unitatea teritorială din\"",
-    "c": "Territorial unit"
+    "k": "Territorial unit",
+    "c": "MD"
   },
   {
     "n": "Soroca",
@@ -20928,16 +20928,16 @@
     "c": "RO"
   },
   {
-    "n": "\"Adygeja",
+    "n": "\"Adygeja, Respublika\"",
     "a2": "RU-AD",
-    "k": " Respublika\"",
-    "c": "Republic"
+    "k": "Republic",
+    "c": "RU"
   },
   {
-    "n": "\"Altaj",
+    "n": "\"Altaj, Respublika\"",
     "a2": "RU-AL",
-    "k": " Respublika\"",
-    "c": "Republic"
+    "k": "Republic",
+    "c": "RU"
   },
   {
     "n": "Altajskij kraj",
@@ -20964,10 +20964,10 @@
     "c": "RU"
   },
   {
-    "n": "\"Bashkortostan",
+    "n": "\"Bashkortostan, Respublika\"",
     "a2": "RU-BA",
-    "k": " Respublika\"",
-    "c": "Republic"
+    "k": "Republic",
+    "c": "RU"
   },
   {
     "n": "Belgorodskaja oblast'",
@@ -20982,10 +20982,10 @@
     "c": "RU"
   },
   {
-    "n": "\"Burjatija",
+    "n": "\"Burjatija, Respublika\"",
     "a2": "RU-BU",
-    "k": " Respublika\"",
-    "c": "Republic"
+    "k": "Republic",
+    "c": "RU"
   },
   {
     "n": "Čečenskaja Respublika",
@@ -21012,16 +21012,16 @@
     "c": "RU"
   },
   {
-    "n": "\"Dagestan",
+    "n": "\"Dagestan, Respublika\"",
     "a2": "RU-DA",
-    "k": " Respublika\"",
-    "c": "Republic"
+    "k": "Republic",
+    "c": "RU"
   },
   {
-    "n": "\"Ingušetija",
+    "n": "\"Ingušetija, Respublika\"",
     "a2": "RU-IN",
-    "k": " Respublika\"",
-    "c": "Republic"
+    "k": "Republic",
+    "c": "RU"
   },
   {
     "n": "Irkutskaja oblast'",
@@ -21096,16 +21096,16 @@
     "c": "RU"
   },
   {
-    "n": "\"Hakasija",
+    "n": "\"Hakasija, Respublika\"",
     "a2": "RU-KK",
-    "k": " Respublika\"",
-    "c": "Republic"
+    "k": "Republic",
+    "c": "RU"
   },
   {
-    "n": "\"Kalmykija",
+    "n": "\"Kalmykija, Respublika\"",
     "a2": "RU-KL",
-    "k": " Respublika\"",
-    "c": "Republic"
+    "k": "Republic",
+    "c": "RU"
   },
   {
     "n": "Kaluzhskaya oblast'",
@@ -21114,10 +21114,10 @@
     "c": "RU"
   },
   {
-    "n": "\"Komi",
+    "n": "\"Komi, Respublika\"",
     "a2": "RU-KO",
-    "k": " Respublika\"",
-    "c": "Republic"
+    "k": "Republic",
+    "c": "RU"
   },
   {
     "n": "Kostromskaja oblast'",
@@ -21126,10 +21126,10 @@
     "c": "RU"
   },
   {
-    "n": "\"Karelija",
+    "n": "\"Karelija, Respublika\"",
     "a2": "RU-KR",
-    "k": " Respublika\"",
-    "c": "Republic"
+    "k": "Republic",
+    "c": "RU"
   },
   {
     "n": "Kurskaja oblast'",
@@ -21162,16 +21162,16 @@
     "c": "RU"
   },
   {
-    "n": "\"Marij Èl",
+    "n": "\"Marij Èl, Respublika\"",
     "a2": "RU-ME",
-    "k": " Respublika\"",
-    "c": "Republic"
+    "k": "Republic",
+    "c": "RU"
   },
   {
-    "n": "\"Mordovija",
+    "n": "\"Mordovija, Respublika\"",
     "a2": "RU-MO",
-    "k": " Respublika\"",
-    "c": "Republic"
+    "k": "Republic",
+    "c": "RU"
   },
   {
     "n": "Moskovskaja oblast'",
@@ -21288,16 +21288,16 @@
     "c": "RU"
   },
   {
-    "n": "\"Saha",
+    "n": "\"Saha, Respublika\"",
     "a2": "RU-SA",
-    "k": " Respublika\"",
-    "c": "Republic"
+    "k": "Republic",
+    "c": "RU"
   },
   {
-    "n": "\"Severnaja Osetija",
+    "n": "\"Severnaja Osetija, Respublika\"",
     "a2": "RU-SE",
-    "k": " Respublika\"",
-    "c": "Republic"
+    "k": "Republic",
+    "c": "RU"
   },
   {
     "n": "Smolenskaja oblast'",
@@ -21330,10 +21330,10 @@
     "c": "RU"
   },
   {
-    "n": "\"Tatarstan",
+    "n": "\"Tatarstan, Respublika\"",
     "a2": "RU-TA",
-    "k": " Respublika\"",
-    "c": "Republic"
+    "k": "Republic",
+    "c": "RU"
   },
   {
     "n": "Tomskaja oblast'",
@@ -21354,10 +21354,10 @@
     "c": "RU"
   },
   {
-    "n": "\"Tyva",
+    "n": "\"Tyva, Respublika\"",
     "a2": "RU-TY",
-    "k": " Respublika\"",
-    "c": "Republic"
+    "k": "Republic",
+    "c": "RU"
   },
   {
     "n": "Tjumenskaja oblast'",
@@ -21456,22 +21456,22 @@
     "c": "RW"
   },
   {
-    "n": "SH-AC",
-    "a2": " Ascension and Tristan Da Cunha\"",
-    "k": "Ascension",
-    "c": "Geographical entity"
+    "n": "Ascension",
+    "a2": "SH-AC",
+    "k": "Geographical entity",
+    "c": "SH"
   },
   {
-    "n": "SH-HL",
-    "a2": " Ascension and Tristan Da Cunha\"",
-    "k": "Saint Helena",
-    "c": "Geographical entity"
+    "n": "Saint Helena",
+    "a2": "SH-HL",
+    "k": "Geographical entity",
+    "c": "SH"
   },
   {
-    "n": "SH-TA",
-    "a2": " Ascension and Tristan Da Cunha\"",
-    "k": "Tristan da Cunha",
-    "c": "Geographical entity"
+    "n": "Tristan da Cunha",
+    "a2": "SH-TA",
+    "k": "Geographical entity",
+    "c": "SH"
   },
   {
     "n": "Christ Church Nichola Town",
@@ -23988,10 +23988,10 @@
     "c": "ES"
   },
   {
-    "n": "\"Asturias",
+    "n": "\"Asturias, Principado de\"",
     "a2": "ES-AS",
-    "k": " Principado de\"",
-    "c": "Autonomous community"
+    "k": "Autonomous community",
+    "c": "ES"
   },
   {
     "n": "Ávila",
@@ -24192,16 +24192,16 @@
     "c": "ES"
   },
   {
-    "n": "\"Murcia",
+    "n": "\"Murcia, Región de\"",
     "a2": "ES-MC",
-    "k": " Región de\"",
-    "c": "Autonomous community"
+    "k": "Autonomous community",
+    "c": "ES"
   },
   {
-    "n": "\"Madrid",
+    "n": "\"Madrid, Comunidad de\"",
     "a2": "ES-MD",
-    "k": " Comunidad de\"",
-    "c": "Autonomous community"
+    "k": "Autonomous community",
+    "c": "ES"
   },
   {
     "n": "Melilla",
@@ -24342,10 +24342,10 @@
     "c": "ES"
   },
   {
-    "n": "\"Valenciana",
+    "n": "\"Valenciana, Comunidad\"",
     "a2": "ES-VC",
-    "k": " Comunidad\"",
-    "c": "Autonomous community"
+    "k": "Autonomous community",
+    "c": "ES"
   },
   {
     "n": "Álava",
@@ -28014,10 +28014,10 @@
     "c": "GB"
   },
   {
-    "n": "\"Bristol",
+    "n": "\"Bristol, City of\"",
     "a2": "GB-BST",
-    "k": " City of\"",
-    "c": "Unitary authority"
+    "k": "Unitary authority",
+    "c": "GB"
   },
   {
     "n": "Bury",
@@ -28254,10 +28254,10 @@
     "c": "GB"
   },
   {
-    "n": "\"Edinburgh",
+    "n": "\"Edinburgh, City of\"",
     "a2": "GB-EDH",
-    "k": " City of\"",
-    "c": "Council area"
+    "k": "Council area",
+    "c": "GB"
   },
   {
     "n": "East Dunbartonshire",
@@ -28566,10 +28566,10 @@
     "c": "GB"
   },
   {
-    "n": "\"London",
+    "n": "\"London, City of\"",
     "a2": "GB-LND",
-    "k": " City of\"",
-    "c": "City corporation"
+    "k": "City corporation",
+    "c": "GB"
   },
   {
     "n": "Larne",
@@ -28854,10 +28854,10 @@
     "c": "GB"
   },
   {
-    "n": "\"Rhondda",
+    "n": "\"Rhondda, Cynon, Taff\"",
     "a2": "GB-RCT",
-    "k": " Cynon",
-    "c": " Taff\""
+    "k": "Unitary authority",
+    "c": "GB"
   },
   {
     "n": "Redbridge",
@@ -28908,10 +28908,10 @@
     "c": "GB"
   },
   {
-    "n": "\"Scottish Borders",
+    "n": "\"Scottish Borders, The\"",
     "a2": "GB-SCB",
-    "k": " The\"",
-    "c": "Council area"
+    "k": "Council area",
+    "c": "GB"
   },
   {
     "n": "Scotland",
@@ -29124,10 +29124,10 @@
     "c": "GB"
   },
   {
-    "n": "\"Vale of Glamorgan",
+    "n": "\"Vale of Glamorgan, The\"",
     "a2": "GB-VGL",
-    "k": " The\"",
-    "c": "Unitary authority"
+    "k": "Unitary authority",
+    "c": "GB"
   },
   {
     "n": "Warwickshire",
@@ -29264,56 +29264,56 @@
   {
     "n": "Johnston Atoll",
     "a2": "UM-67",
-    "k": "\"Islands",
-    "c": " groups of islands\""
+    "k": "\"Islands, groups of islands\"",
+    "c": "UM"
   },
   {
     "n": "Midway Islands",
     "a2": "UM-71",
-    "k": "\"Islands",
-    "c": " groups of islands\""
+    "k": "\"Islands, groups of islands\"",
+    "c": "UM"
   },
   {
     "n": "Navassa Island",
     "a2": "UM-76",
-    "k": "\"Islands",
-    "c": " groups of islands\""
+    "k": "\"Islands, groups of islands\"",
+    "c": "UM"
   },
   {
     "n": "Wake Island",
     "a2": "UM-79",
-    "k": "\"Islands",
-    "c": " groups of islands\""
+    "k": "\"Islands, groups of islands\"",
+    "c": "UM"
   },
   {
     "n": "Baker Island",
     "a2": "UM-81",
-    "k": "\"Islands",
-    "c": " groups of islands\""
+    "k": "\"Islands, groups of islands\"",
+    "c": "UM"
   },
   {
     "n": "Howland Island",
     "a2": "UM-84",
-    "k": "\"Islands",
-    "c": " groups of islands\""
+    "k": "\"Islands, groups of islands\"",
+    "c": "UM"
   },
   {
     "n": "Jarvis Island",
     "a2": "UM-86",
-    "k": "\"Islands",
-    "c": " groups of islands\""
+    "k": "\"Islands, groups of islands\"",
+    "c": "UM"
   },
   {
     "n": "Kingman Reef",
     "a2": "UM-89",
-    "k": "\"Islands",
-    "c": " groups of islands\""
+    "k": "\"Islands, groups of islands\"",
+    "c": "UM"
   },
   {
     "n": "Palmyra Atoll",
     "a2": "UM-95",
-    "k": "\"Islands",
-    "c": " groups of islands\""
+    "k": "\"Islands, groups of islands\"",
+    "c": "UM"
   },
   {
     "n": "Alaska",
@@ -29622,10 +29622,10 @@
     "c": "US"
   },
   {
-    "n": "\"Virgin Islands",
+    "n": "\"Virgin Islands, U.S.\"",
     "a2": "US-VI",
-    "k": " U.S.\"",
-    "c": "Outlying area"
+    "k": "Outlying area",
+    "c": "US"
   },
   {
     "n": "Vermont",

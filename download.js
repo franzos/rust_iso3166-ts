@@ -17,7 +17,14 @@ https.get(url, (res) => {
             
             // Create ISO3166-2 subdivisions array
             const subdivisions = lines.map(line => {
-                const [_country, code, name, type, countryCode] = line.split(',');
+                // Split by comma but respect quotes
+                const parts = line.match(/(?:[^,"]|"[^"]*")+/g);
+                const country = parts[0].replace(/^"|"$/g, ''); // Remove quotes if present
+                const code = parts[1];
+                const name = parts[2];
+                const type = parts[3];
+                const countryCode = parts[4];
+                
                 return {
                     n: name,
                     a2: code,
@@ -29,7 +36,9 @@ https.get(url, (res) => {
             // Create deduplicated ISO3166-1 countries array using Map
             const countryMap = new Map();
             lines.forEach(line => {
-                const [country, _, __, ___, countryCode] = line.split(',');
+                const parts = line.match(/(?:[^,"]|"[^"]*")+/g);
+                const country = parts[0].replace(/^"|"$/g, ''); // Remove quotes if present
+                const countryCode = parts[4];
                 countryMap.set(countryCode, {
                     n: country,
                     a2: countryCode
